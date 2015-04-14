@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TDTableViewController.h
 //  UITableViewControllerChallenge
 //
 //  Created by Thomas Diffendal on 4/13/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TDTableViewController : UITableViewController
 
 @end
-
